@@ -1,0 +1,6 @@
+terraform-s3-example/
+├── main.tf
+├── variables.tf
+├── outputs.tf
+├── terraform.tfvars
+├── README.md
